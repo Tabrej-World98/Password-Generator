@@ -1,6 +1,4 @@
-Sure! Here's a README.md file for your password generator project:
 
-```markdown
 # Password Generator Kiosk
 
 Welcome to the Password Generator Kiosk! This project allows users to generate secure passwords either by specifying the desired components (small letters, capital letters, symbols, and digits) or by generating a random password of a specified length.
@@ -102,5 +100,3 @@ Thank you for using PASSWORD GENERATOR KIOSK
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ```
-
-Replace placeholders like `[Your Name]` and `yourusername` with your actual name and GitHub username. This README provides a comprehensive overview of your project and instructions on how to set it up and use it.
