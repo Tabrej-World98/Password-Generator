@@ -20,7 +20,7 @@ The Password Generator Kiosk is a console application that helps users generate 
 
 ## Project Team
 
-- [Your Name] - Developer
+- [Tabrej rain]
 
 ## Project Technologies
 
