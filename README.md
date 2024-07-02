@@ -75,23 +75,72 @@ The Password Generator Kiosk is a console application that helps users generate 
 ```bash
 Welcome to PASSWORD GENERATOR KIOSK
 
-Do you want to customize your password? Y or N: Y
+ ____                                     _
+|  _ \ __ _ ___ _____      _____  _ __ __| |
+| |_) / _` / __/ __\ \ /\ / / _ \| '__/ _` |
+|  __/ (_| \__ \__ \ V  V / (_) | | | (_| |
+|_|___\__,_|___/___/ \_/\_/ \___/|_|  \__,_|
+ / ___| ___ _ __   ___ _ __ __ _| |_ ___  _ __
+| |  _ / _ \ '_ \ / _ \ '__/ _` | __/ _ \| '__|
+| |_| |  __/ | | |  __/ | | (_| | || (_) | |
+ \____|\___|_| |_|\___|_|  \__,_|\__\___/|_|
 
-Enter how many SMALL letters do you want?: 2
-Enter how many CAPITAL letters doyou want?: 2
+
+Do you want to customize your password? Y or N: y
+
+Enter how many SMALL letters do you want?: 6
+Enter how many CAPITAL letters doyou want?: 3
 Enter how many SPECIAL CHARACTERS do you want?: 2
-Enter how many DIGITS do you want?: 2
+Enter how many DIGITS do you want?: 5
 
-Your customized password:  Ab!cD#12
+Your customized password:  {svnK93zJ0;gUc07
 
-Do you want to continue? Y or N: N
+Do you want to continue? Y or N: y
 
+ ____                                     _
+|  _ \ __ _ ___ _____      _____  _ __ __| |
+| |_) / _` / __/ __\ \ /\ / / _ \| '__/ _` |
+|  __/ (_| \__ \__ \ V  V / (_) | | | (_| |
+|_|___\__,_|___/___/ \_/\_/ \___/|_|  \__,_|
+ / ___| ___ _ __   ___ _ __ __ _| |_ ___  _ __
+| |  _ / _ \ '_ \ / _ \ '__/ _` | __/ _ \| '__|
+| |_| |  __/ | | |  __/ | | (_| | || (_) | |
+ \____|\___|_| |_|\___|_|  \__,_|\__\___/|_|
+
+
+Do you want to customize your password? Y or N: N
+
+Enter the length of the password you want to generate: 15
+Generated password:  jJp<k2FZjxT5yx_
+
+Do you want to continue? Y or N: Y
+
+ ____                                     _
+|  _ \ __ _ ___ _____      _____  _ __ __| |
+| |_) / _` / __/ __\ \ /\ / / _ \| '__/ _` |
+|  __/ (_| \__ \__ \ V  V / (_) | | | (_| |
+|_|___\__,_|___/___/ \_/\_/ \___/|_|  \__,_|
+ / ___| ___ _ __   ___ _ __ __ _| |_ ___  _ __
+| |  _ / _ \ '_ \ / _ \ '__/ _` | __/ _ \| '__|
+| |_| |  __/ | | |  __/ | | (_| | || (_) | |
+ \____|\___|_| |_|\___|_|  \__,_|\__\___/|_|
+
+
+Do you want to customize your password? Y or N:
+
+Auto Generated password:  2]hcME_Y,^"6
+
+Do you want to continue? Y or N: n
 Your Generated Passwords...
 
 |-----------------------------------------------------------------------------|
 | Sr. No. | Password                            | Customize                   |
 |-----------------------------------------------------------------------------|
-| 1       | Ab!cD#12                            | Yes                         |
+| 1       | {svnK93zJ0;gUc07                    | Yes                         |
+|-----------------------------------------------------------------------------|
+| 2       | jJp<k2FZjxT5yx_                     | No                          |
+|-----------------------------------------------------------------------------|
+| 3       | 2]hcME_Y,^"6                        | Auto                        |
 |-----------------------------------------------------------------------------|
 
 Thank you for using PASSWORD GENERATOR KIOSK
