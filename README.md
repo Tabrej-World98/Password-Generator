@@ -52,7 +52,8 @@ The Password Generator Kiosk is a console application that helps users generate 
 - **Links:**
     - [Python Documentation](https://docs.python.org/3/)
     - [Random Module Documentation](https://docs.python.org/3/library/random.html)
-    - [Replit](https://replit.com/@HeloTabMu13/Password-generator)
+    - [Run on Replit](https://replit.com/@HeloTabMu13/Password-generator){:target="_blank"}
+        You can directly run this program on Replit by forking it.
 
 ## Project Risks
 
